@@ -1,7 +1,7 @@
 {
-  "name": "blog",
+  "name": "minimal-remix-stack",
   "private": true,
-  "description": "Victor Li's blog",
+  "description": "My opinionated minimal remix stack",
   "license": "MIT",
   "main": "build/index.js",
   "sideEffects": false,
