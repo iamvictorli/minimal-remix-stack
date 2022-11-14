@@ -5,8 +5,6 @@ module.exports = {
   root: true,
   parser: '@typescript-eslint/parser',
   extends: [
-    '@remix-run/eslint-config',
-    '@remix-run/eslint-config/node',
     'plugin:import/recommended',
     'plugin:import/typescript',
     'eslint:recommended',
