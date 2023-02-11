@@ -1,3 +1,5 @@
+[Use Indie Stack](https://github.com/remix-run/indie-stack)
+
 # My Minimal Remix Stack
 
 ## Development
